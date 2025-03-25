@@ -4,4 +4,6 @@ A Golang roguelike inspired by the Silver John stories and Appalachian folklore 
 To run and compile:
 
 With go installed, enter the command:
+```
     go run apotter/strangerstune
+```
